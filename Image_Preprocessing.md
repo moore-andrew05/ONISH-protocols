@@ -20,7 +20,8 @@ edited 20 February, 2024
 
 2.  Open a terminal at this location and run \`python con_auto_dir.py\`. This script does not require external packages. The script will ask for user input and will guide you through the creation of your directory structure.
 
-3.  The final directory structure should look like this (there can be multiple groups):  [<img src="./media/image1.png" width="250"/>]()
+3.  The final directory structure should look like this (there can be multiple groups):  
+[<img src="./media/image1.png" width="250"/>]()
 
 4.  It is helpful to fill out the metadata of the README.txt file as you image, but it can also be generated after imaging.
 
