@@ -7,7 +7,7 @@ edited 19 March, 2024
 1.  Frankenstein (github.com/moore-andrew05/FrankenStein) or other
     method of stitching images.
 
-2.  Modified FIJI straightening plugin (link to plugin).
+2.  Modified FIJI straightening plugin (<https://github.com/jesshill/WormBiome-Viewer/blob/protocols/03_Image-Analysis/scripts/Straightener_CONFOCAL.java>).
 
 3.  con_auto_dir.py script to generate README (<https://github.com/moore-andrew05/worm-imtools/blob/main/wormimtools/con_auto_dir.py>).
 
